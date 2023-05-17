@@ -1,5 +1,5 @@
 # Four_In_A_Row
-![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNiMmZmNGI2ZGI3MDBmZWZlMDUxYTdmNmVkYjRjZGVjYmJjMzI4NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/c7W7wTvlpx1byAsUzA/giphy.gif)  
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExODNiMmZmNGI2ZGI3MDBmZWZlMDUxYTdmNmVkYjRjZGVjYmJjMzI4NSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/c7W7wTvlpx1byAsUzA/giphy.gif)    
     
 ## Explanation
 Four in a Row is a two-player strategy game that is also known as Connect Four, Captain's Mistress, Four Up, Plot Four, and many other names. The objective of the game is to connect four of the same-colored disks in a row, either horizontally, vertically, or diagonally, while strategically blocking your opponent from doing the same.
